@@ -4,7 +4,7 @@ This is a really awesome website
 
 Update made on master on GitHub before rebase
 
-## Repository Purpose
+ Repository Purpose
 
 This file is just a readme file.
 
@@ -12,3 +12,7 @@ This file is just a readme file.
 
 The purpose of this is to provide examples
 on how to use Git and GitHub together.
+
+## Gitting statrted
+
+To grt Strarted with this project, just 'clone' this repository.
